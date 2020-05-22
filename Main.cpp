@@ -31,7 +31,7 @@ int main() {
 	unix->mkdir("Osbaldo");
 	unix->mkdir("Desktop");
 	unix->mkdir("Abercombie");
-	unix->mkdir("bitch");
+	
 
 	
 
